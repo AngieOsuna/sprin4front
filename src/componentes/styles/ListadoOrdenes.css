@@ -1,0 +1,24 @@
+.listadoOrdenes{
+    width: 850px;
+    border: solid black;
+}
+.listadoOrdenes h1{
+    color: rgb(108, 78, 146);
+}
+.listadoOrdenes h2{
+    font-size: 1.2rem;
+}
+.listado h2{
+    font-size: 1rem;
+}
+.listadoOrdenes button{
+    background-color:  rgb(108, 78, 146);
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+    width: 250px;
+    margin-bottom: 30px;
+
+}

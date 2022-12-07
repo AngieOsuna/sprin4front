@@ -1,0 +1,33 @@
+.registroOrdenes{
+    border: solid black;
+}
+.registroOrdenes h1{
+    color: rgb(108, 78, 146);
+    font-size: 35px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+.registroOrdenes .datosOrdenes input {
+    background-color:rgb(108, 78, 146);
+
+}
+.formularioRegistroOrdenes .row input:hover{
+    background-color: rgba(75, 4, 34, 0.075);
+}
+.formularioRegistroOrdenes .row input{
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.formularioRegistroOrdenes button{
+    background-color:  rgb(108, 78, 146);
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+    width: 250px;
+    margin-bottom: 30px;
+}

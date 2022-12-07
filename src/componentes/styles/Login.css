@@ -1,0 +1,52 @@
+.login{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border: solid 2px black;
+}
+.encabezado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+}
+.encabezado h1{
+    margin-right: 0;
+    
+    font-size: 25px;
+    text-decoration: none;
+
+}
+.encabezado h2{
+    margin-right: 0;
+    
+    font-size: 15px;
+    text-decoration: none;
+
+}
+.formulariologin{
+    background-color: white;
+   width: 800px;
+   
+}
+.formulariologin label{
+    display: inline-block;
+    width: 80px;
+   padding-right: 120px;
+}
+.formulariologin input{
+    background-color:white ;
+    border: solid black;
+    color: black;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.formulariologin button{
+    margin: 30px 0;
+    background-color: rgb(108, 78, 146);
+    width: 300px;
+}
